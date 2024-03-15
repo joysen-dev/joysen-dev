@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoy Sen</h1>
+<h1 align="center">Hi 👋, I'm Joy Sen</h1>
 <h3 align="center">A passionate Fullstack Developer.</h3>
 
 - 🌱 I’m currently learning **Qraph QL, Salesforce, Apex, LWC**
